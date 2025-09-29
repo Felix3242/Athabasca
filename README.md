@@ -1,7 +1,7 @@
 
-# Customer Relationship Management App developed for telMAX Sales Operations Team Manager with 3 other team members.
+# Customer Relationship Management App
 
-A Java Swing desktop application for managing clients, assignments, and employees, with Firebase Realtime Database integration for telMAX
+A Java Swing desktop application developed for telMAX Sales Operations Team Manager with 3 other team members for managing clients, assignments, and employees, with Firebase Realtime Database integration.
 
 ## Features
 
