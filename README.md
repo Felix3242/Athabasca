@@ -1,7 +1,7 @@
 
-# Grade 12 computer science project
+# Customer Relationship Management App developed for telMAX Sales Operations Team Manager with 3 other team members.
 
-A Java Swing desktop application for managing clients, assignments, and employees, with Firebase Realtime Database integration.
+A Java Swing desktop application for managing clients, assignments, and employees, with Firebase Realtime Database integration for telMAX
 
 ## Features
 
@@ -98,8 +98,6 @@ java -jar build/libs/app.jar
 - Contributions are welcome! Please fork and submit a pull request.
 
 ## License
-
-This project is for educational purposes.
 
 ---
 
