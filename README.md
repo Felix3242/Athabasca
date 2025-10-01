@@ -1,16 +1,16 @@
 
-# 🏢Enterprise Customer Relationship Management System
+# 🏢 Enterprise Customer Relationship Management System
 
 **Production-ready CRM system deployed for telMAX Inc., reducing lead response time by 85% through optimized workflows and role-based access control.** Developed by a 4-person team for telMAX's Sales Operations department, this Java Swing desktop application manages client relationships, assignment tracking, and team coordination with Firebase real-time synchronization.
 
-## 📊Impact
+## 📊 Impact
 
-- **⚡ 85% reduction in lead response time.**
-- **👥 1000+ client relationships managed.**
-- **🔐 Role-based access for admins, managers, and sales reps.**
-- **📈 Real-time data synchronization across the organization.**
+- ⚡ 85% reduction in lead response time.
+- 👥 1000+ client relationships managed.
+- 🔐 Role-based access for admins, managers, and sales reps.
+- 📈 Real-time data synchronization across the organization.
 
-## ✨Key Features
+## ✨ Key Features
 
 - **User Authentication**: Secure login using email and password.
 - **Role-Based Dashboard**: Admin and Rep dashboards with different permissions.
@@ -19,7 +19,7 @@
 - **Data Persistence**: All data is stored and synced using Firebase Realtime Database.
 - **Modern UI**: Built with Java Swing, using custom panels and input components.
 
-## 🛠️Tech Stack
+## 🛠️ Tech Stack
 
 - Java 8+
 - Java Swing (GUI)
