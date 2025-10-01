@@ -5,19 +5,19 @@
 
 ## 📊 Impact
 
-- ⚡ 85% reduction in lead response time.
-- 👥 1000+ client relationships managed.
-- 🔐 Role-based access for admins, managers, and sales reps.
-- 📈 Real-time data synchronization across the organization.
+- ⚡ 85% reduction in lead response time
+- 👥 1000+ client relationships managed
+- 🔐 Role-based access for admins, managers, and sales reps
+- 📈 Real-time data synchronization across the organization
 
 ## ✨ Key Features
 
-- **User Authentication**: Secure login using email and password.
-- **Role-Based Dashboard**: Admin and Rep dashboards with different permissions.
-- **Client Management**: Add, view, search, and import clients (CSV supported).
-- **Assignment Management**: Assign clients to reps, check assignments, and mark as complete.
-- **Data Persistence**: All data is stored and synced using Firebase Realtime Database.
-- **Modern UI**: Built with Java Swing, using custom panels and input components.
+- **User Authentication**: Secure login using email and password
+- **Role-Based Dashboard**: Admin and Rep dashboards with different permissions
+- **Client Management**: Add, view, search, and import clients (CSV supported)
+- **Assignment Management**: Assign clients to reps, check assignments, and mark as complete
+- **Data Persistence**: All data is stored and synced using Firebase Realtime Database
+- **Modern UI**: Built with Java Swing, using custom panels and input components
 
 ## 🛠️ Tech Stack
 
