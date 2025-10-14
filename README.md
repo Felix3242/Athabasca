@@ -27,7 +27,7 @@
 - JDatePicker (`org.jdatepicker:jdatepicker`)
 - Gradle (build system)
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 app/
@@ -50,7 +50,7 @@ app/
   build.gradle.kts
 ```
 
-## Setup & Running
+## 🚀 Setup & Running
 
 ### Prerequisites
 
@@ -91,14 +91,14 @@ The JAR will be in `app/build/libs/`. You can double-click it (if Java is instal
 java -jar build/libs/app.jar
 ```
 
-## Usage
+## 💡 Usage
 
 - **Login**: Use your email and password to log in.
 - **Admin Dashboard**: Add clients, assign clients, and view all clients.
 - **Rep Dashboard**: View assigned clients and mark assignments as complete.
 - **Import Clients**: Use the "Add Clients By CSV" feature to bulk import clients.
 
-## Code Style & Contribution
+## 📦 Code Style & Contribution
 
 - Code is organized by feature/component.
 - Comments and JavaDoc are provided for clarity.
